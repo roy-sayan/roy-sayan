@@ -2,4 +2,4 @@
 - I’m interested in **Data Science/Data Analytics/Data Engineering**
 - I have knowledge of **** Python, MySQL, Tableau, Excel****
 - I’m looking for a job in the relavent field.
-- Reach me by e-mail - **roy.sayan@hotmail.com**
+- Reach me out - **roy.sayan@hotmail.com**
